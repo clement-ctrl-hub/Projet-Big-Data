@@ -6,17 +6,17 @@ Ce projet a été réalisé dans le cadre du Diplôme Universitaire Big Data et 
 
 ---
 
-## 🔹 1. Traitement de données et économétrie
+##  1. Traitement de données et économétrie
 
-📁 Dossier : `traitement_econometrie/`
+ Dossier : `traitement_econometrie/`
 
-### 🎯 Objectifs
+###  Objectifs
 - Nettoyage, enrichissement et croisement de données assurantielles, climatiques et géographiques
 - Analyse statistique et économétrique de la sinistralité
 - Segmentation climatique du territoire français
 - Modélisation de la probabilité et du montant des sinistres
 
-### 📄 Contenu
+###  Contenu
 - `notebook_traitement_econometrie.ipynb` : Notebook Jupyter incluant :
   - Préparation des jeux de données (polices, sinistres, météo, géographie)
   - Analyses descriptives et multivariées (ACP, ACM)
@@ -26,16 +26,16 @@ Ce projet a été réalisé dans le cadre du Diplôme Universitaire Big Data et 
 
 ---
 
-## 🔹 2. Machine Learning appliqué à la sinistralité
+##  2. Machine Learning appliqué à la sinistralité
 
-📁 Dossier : `machine_learning/`
+  Dossier : `machine_learning/`
 
-### 🎯 Objectifs
+###  Objectifs
 - Identifier les profils de véhicules et d’assurés à risque
 - Analyser l'effet du climat sur la sinistralité
 - Construire des modèles prédictifs performants (classification & régression)
 
-### 📄 Contenu
+###   Contenu
 - `notebook_ml.ipynb` : Notebook Jupyter contenant :
   - Construction d’un véhiculier de risque
   - Modélisation avec :
@@ -48,7 +48,7 @@ Ce projet a été réalisé dans le cadre du Diplôme Universitaire Big Data et 
 
 ---
 
-## 🧰 Outils et technologies
+##   Outils et technologies
 
 - **Langage** : Python
 - **Librairies** : pandas, matplotlib, seaborn, scikit-learn, XGBoost, statsmodels
@@ -57,7 +57,7 @@ Ce projet a été réalisé dans le cadre du Diplôme Universitaire Big Data et 
 
 ---
 
-## 👤 Auteur
+##   Auteur
 
 **Clément Amégadjaka**  
 Université de Montpellier  
