@@ -1,4 +1,4 @@
-# Projet Big Data - Université de Montpellier (2024-2025)
+# Projet Data - Université de Montpellier (2024-2025)
 
 Ce projet a été réalisé dans le cadre du Diplôme Universitaire Big Data et Data Science à l’Université de Montpellier. Il s’articule en deux grandes parties :
 1. **Traitement de données et économétrie**
